@@ -17,7 +17,7 @@ const App = () => {
         large
       />
 
-      {/* <Row title="Trending Now" fetchUrl={requests.fetchTrending} />
+      <Row title="Trending Now" fetchUrl={requests.fetchTrending} />
 
       <Row title="Top Rated" fetchUrl={requests.fetchTopRated} />
 
@@ -29,7 +29,7 @@ const App = () => {
 
       <Row title="Romance Movies" fetchUrl={requests.fetchRomanceMovies} />
 
-      <Row title="Documentaries" fetchUrl={requests.fetchDocumentaries} /> */}
+      <Row title="Documentaries" fetchUrl={requests.fetchDocumentaries} />
     </div>
   );
 };
