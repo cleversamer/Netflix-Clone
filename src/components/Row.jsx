@@ -8,10 +8,10 @@ const Row = ({ title, fetchUrl, large }) => {
   const [movies, setMovies] = useState([]);
 
   useEffect(() => {
-    // axios
-    //   .get(fetchUrl)
-    //   .then((res) => setMovies(res.data.results))
-    //   .catch((err) => {});
+    axios
+      .get(fetchUrl)
+      .then((res) => setMovies(res.data.results))
+      .catch((err) => {});
   }, []);
 
   const getPosterClasses = () => {
