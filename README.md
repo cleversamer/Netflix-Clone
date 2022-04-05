@@ -14,6 +14,9 @@ Netflix Clone with React
 
 - React
 - React DOM
+- Axios
+- React Youtube
+- Movie Trailer
 
 ### Installing
 

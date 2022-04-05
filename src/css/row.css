@@ -16,14 +16,14 @@
 .row__poster {
   object-fit: contain;
   width: 100%;
-  max-height: 150px;
+  max-height: 100px;
   margin-right: 10px;
   transition: transform 0.45s;
   cursor: pointer;
 }
 
 .row__poster--large {
-  max-height: 200px;
+  max-height: 250px;
 }
 
 .row__poster:hover {
