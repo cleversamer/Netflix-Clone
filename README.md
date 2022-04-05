@@ -6,7 +6,7 @@ Not live yet...
 
 ## Description
 
-Netflix Clone with React & Firebase
+Netflix Clone with React
 
 ## Getting Started
 
