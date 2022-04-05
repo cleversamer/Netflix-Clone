@@ -2,7 +2,7 @@
 
 ## 🔴 Live Demo
 
-Not live yet...
+[Click here...](https://samer-netflix.firebaseapp.com/)
 
 ## Description
 
