@@ -10,3 +10,7 @@ html {
 body {
   color: #fff;
 }
+
+a {
+  text-decoration: none;
+}
